@@ -31,7 +31,7 @@ export default function HistoryPage() {
           </h2>
         </Reveal>
         <div className="mt-8 grid gap-6 md:grid-cols-3">
-          {["Foundational Charter", "Education Milestone", "Legacy Pact"].map(
+          {["Founder", "Education Milestone", "Legacy Pact"].map(
             (moment) => (
               <Reveal key={moment}>
                 <div className="rounded-3xl border border-amber-500/20 bg-zinc-950/70 p-6">
@@ -44,8 +44,8 @@ export default function HistoryPage() {
                     {moment}
                   </h3>
                   <p className="mt-2 text-sm text-zinc-300/80">
-                    Replace this story with a verified historical highlight and
-                    supporting evidence.
+                    ILLUMINATI is a brotherhood of men and women who share one common goal: To help each other become better beings. It is the world's oldest, largest, and most widely known fraternal organization. Men and women from all different backgrounds and walks of life come together as equals and improve their lives
+                    .
                   </p>
                 </div>
               </Reveal>

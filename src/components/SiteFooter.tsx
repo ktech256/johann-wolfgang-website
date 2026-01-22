@@ -14,9 +14,7 @@ export function SiteFooter() {
             Johann Wolfgang Educational Society
           </h2>
           <p className="text-sm text-zinc-300/80">
-            This premium educational space is for adults only. Every journey is
-            designed to be transparent, respectful, and inspired by personal
-            growth.
+            This is the new world order driven by money, fame, legacy, power and control.
           </p>
           <p className="text-xs text-amber-200/80">
             18+ Disclaimer: This site is for 18+. No deception, and you consent
@@ -58,7 +56,7 @@ export function SiteFooter() {
         </div>
       </div>
       <div className="border-t border-amber-500/10 py-6 text-center text-xs text-zinc-500">
-        © 2024 Johann Wolfgang. All rights reserved.
+        © 2026 Johann Wolfgang. All rights reserved.
       </div>
     </footer>
   );

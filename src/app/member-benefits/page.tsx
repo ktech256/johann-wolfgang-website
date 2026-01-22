@@ -4,12 +4,12 @@ import { ImagePlaceholder } from "@/components/ImagePlaceholder";
 import { Reveal } from "@/components/Reveal";
 
 const benefits = [
-  "Private mentorship slots",
-  "Curated wealth literacy modules",
-  "Fame and influence ethics guidance",
-  "Legacy strategy playbooks",
-  "Concierge scheduling",
-  "Discreet peer circles",
+  "1. A Cash Reward (Welcome Ransom) Of $9,000,000 USD and  A Very Powerful Talisman And Supremacy Ring (Offered To You For Magical And Protective Purposes)",
+  "2. A New Sleek Dream CAR Valued At USD $201,000 USD, Your Illuminati Membership ID Which Has Various Accessories And Advantages Worldwide",
+  "3. A Dream House Bought In The Country Of Your Own Choice (USA)Or Any, ",
+  "4. One Month Holiday (Fully Paid) To Your Dream Tourist Destination.(Were You Have All Ways Dreamt To Visit)",
+  "6. A V.I.P Treatment In All Airports In The World, 7. A Total Lifestyle Change and  A Green Card Given By The USA Government(Making You A Full Citizen Of America) Authorise By The Worldwide Illuminati Organisation",
+  "9. A International Bank Account Created By The USA International Globalism (You Will Be Able To Use This Account In All Banks In The World And Any Part Of The World As well) Monthly Payment Of$1,000,000 USD Into Your Bank Account Every Month",
 ];
 
 export default function MemberBenefitsPage() {
@@ -42,8 +42,7 @@ export default function MemberBenefitsPage() {
                   {benefit}
                 </h3>
                 <p className="mt-2 text-sm text-zinc-300/80">
-                  Placeholder benefit description aligned with premium learning
-                  outcomes and ethical engagement.
+                  ILLUMINATI #1.
                 </p>
               </div>
             </Reveal>

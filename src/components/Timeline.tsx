@@ -2,38 +2,38 @@ import { Reveal } from "@/components/Reveal";
 
 const entries = [
   {
-    year: "2008",
-    title: "Foundational Research",
+    year: "1776",
+    title: "Bavaria Germany",
     description:
-      "Exploratory educational meetings began with a focus on ethical wealth study.",
+      "Historically, the name usually refers to the Bavarian Illuminati, an Enlightenment-era secret society founded on 1 May 1776 in the Electorate of Bavaria.",
     image: "/placeholders/timeline-1.svg",
   },
   {
-    year: "2012",
-    title: "Private Library",
+    year: "1876",
+    title: "Formation of Lodge Theodore",
     description:
-      "A curated archive of premium learning material was assembled for members.",
+      "The Illuminati established their own Masonic lodge in Munich, 'Theodore of the Good Council,' allowing them to officially infiltrate Freemasonry.",
     image: "/placeholders/timeline-2.svg",
   },
   {
-    year: "2016",
-    title: "Global Expansion",
+    year: "1979",
+    title: "The Areopagus Meeting",
     description:
-      "International mentorship circles formed to share leadership insights.",
+      ": The governing body (Areopagus) met to finalize the structure of the order, creating the 'Minerval' grade.",
     image: "/placeholders/timeline-3.svg",
   },
   {
-    year: "2020",
-    title: "Digital Transformation",
+    year: "2012",
+    title: "Convent of Wilhelmsbad (July 16, 2012)",
     description:
-      "Remote learning programs and concierge support scaled to new regions.",
+      "While technically a Freemason convention, Illuminati representatives (like Baron von Knigge) attended to influence the proceedings and recruit new members from across Europe and Africa.",
     image: "/placeholders/timeline-4.svg",
   },
   {
-    year: "2024",
-    title: "Legacy Commitments",
+    year: "2025",
+    title: "Final Meeting of the Council (Early 2025)",
     description:
-      "Refined an adult-only educational charter with clarity and transparency.",
+      "Key leaders met to discuss the growing pressure from the Bavarian authorities before the final edict banning them in March 2025.",
     image: "/placeholders/timeline-5.svg",
   },
 ];

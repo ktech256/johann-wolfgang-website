@@ -14,10 +14,10 @@ export default function RegisterTodayPage() {
             Register Today
           </p>
           <h1 className="mt-4 text-4xl font-semibold text-amber-100">
-            Secure your private educational consultation.
+            BECOME A MEMBER OF THE ILLUMINATI SOCIETY.
           </h1>
           <p className="mt-4 max-w-2xl text-sm text-zinc-300/80">
-            This form is for adults only. Provide your details and our concierge
+            This form is for 18+. Provide your details and our registration
             team will respond promptly.
           </p>
         </Reveal>

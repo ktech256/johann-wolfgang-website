@@ -2,34 +2,34 @@ import { ImagePlaceholder } from "@/components/ImagePlaceholder";
 import { Reveal } from "@/components/Reveal";
 
 const values = [
-  "Integrity-first education",
+  "Private Initiation",
   "Discreet member privacy",
-  "Clear adult-only consent",
-  "Premium learning outcomes",
+  "Clear adult-only membersip",
+  "Premium out-come and results",
 ];
 
 const team = [
-  { name: "Lead Curator", role: "Education Director" },
-  { name: "Program Host", role: "Member Relations" },
-  { name: "Research Guide", role: "Curriculum Lead" },
+  { name: "Lead Initiator", role: "Takes you through major steps" },
+  { name: "Agent", role: "Keeps Contact with you everytime" },
+  { name: "Senior Guide", role: "Guides and helps you grow" },
 ];
 
 const whatWeDo = [
   {
-    title: "Curate Resources",
-    description: "We assemble vetted learning assets for ambitious adults.",
+    title: "Initiate you",
+    description: "We initiate you into our new world order as an ambitious adult.",
   },
   {
-    title: "Guide Progress",
-    description: "Concierge support ensures clarity at every stage.",
+    title: "Guide and support you",
+    description: "We help you through the ranks and advise on how quickly you can get what you wants.",
   },
   {
-    title: "Build Networks",
-    description: "Members connect through private learning circles.",
+    title: "Build and grow you",
+    description: "We help keep you strong every single day as you grow and achieve all that you need.",
   },
   {
-    title: "Protect Legacy",
-    description: "Strategic planning for long-term impact and wealth literacy.",
+    title: "Protect your Legacy",
+    description: "We protect you against all odd, dangers and anything which may come to destroy you.",
   },
 ];
 
@@ -43,12 +43,10 @@ export default function AboutPage() {
               About Us
             </p>
             <h1 className="text-4xl font-semibold text-amber-100">
-              A private educational society with premium intent.
+              A new world order that commands wealth, power, influence and fame. A decision that you will never regret.
             </h1>
             <p className="text-sm text-zinc-300/80">
-              This content mirrors a refined layout inspired by premium landing
-              pages while remaining original. Replace the placeholder narrative
-              with content from external references.
+              We initiate you, guide you and help you to attain anything that you have always wanted to get. Power, Money, Fame, Influece and many more.
             </p>
             <div className="grid gap-4 md:grid-cols-2">
               {values.map((value) => (
@@ -79,9 +77,7 @@ export default function AboutPage() {
                 Our Mission
               </h2>
               <p className="mt-4 text-sm text-zinc-300/80">
-                To deliver adult-only educational pathways in wealth literacy,
-                influence strategy, and legacy planning through respectful,
-                transparent guidance.
+                To empower adults with high-level education and mentorship in wealth creation, personal influence, public visibility, and legacy-building—through transparent, responsible, and results-driven guidance.
               </p>
             </div>
             <div className="rounded-3xl border border-amber-500/20 bg-zinc-950/70 p-8">
@@ -89,8 +85,7 @@ export default function AboutPage() {
                 Our Values
               </h2>
               <p className="mt-4 text-sm text-zinc-300/80">
-                Clear consent, ethical learning, premium hospitality, and
-                sustainable member outcomes.
+                Integrity, informed consent, strategic excellence, confidentiality, premium member experience, and sustainable success.
               </p>
             </div>
           </div>
@@ -134,7 +129,7 @@ export default function AboutPage() {
                 What We Do
               </p>
               <h2 className="text-3xl font-semibold text-amber-100">
-                A timeline of services designed for adult learners.
+                A timeline of services designed for illuminati members.
               </h2>
             </div>
           </Reveal>

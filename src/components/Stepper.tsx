@@ -2,24 +2,24 @@ import { Reveal } from "@/components/Reveal";
 
 const steps = [
   {
-    title: "Initial Signal",
+    title: "Click 'Register Today' or Send a WhatsApp Message",
     description: "Complete the private registration form to begin.",
   },
   {
-    title: "Eligibility Review",
-    description: "Our team confirms alignment with the educational code.",
+    title: "We recieve your application and send CODE",
+    description: "Our team confirms alignment with the requirements and age and sends you a secret confirmation/serial code via email or WhatsApp.",
   },
   {
     title: "Orientation Call",
-    description: "Receive guidance on curriculum access and timelines.",
+    description: "Receive guidance Phone Call from our Grand Lodge lord who will guide you on the Next step and also the dates.",
+  },
+  {
+    title: " Initiation Ceremony",
+    description: "Invitation to the initiation ceremony to a temple within your country or area of residence.",
   },
   {
     title: "Membership Access",
-    description: "Unlock secure resources and private sessions.",
-  },
-  {
-    title: "Ongoing Path",
-    description: "Continue learning with quarterly progress reviews.",
+    description: "Have full access and start recieving the wealth benefits, power, fame, control and any other thing that you may ask for.",
   },
 ];
 

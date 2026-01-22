@@ -42,11 +42,11 @@ export default function HowToJoinPage() {
           <Reveal delay={0.1}>
             <div className="rounded-3xl border border-amber-500/20 bg-zinc-950/70 p-8">
               <h2 className="text-2xl font-semibold text-amber-100">
-                Code of Conduct (Fame &amp; Wealth)
+                Code of Conduct (Fame &amp; Wealth, Power, Control, Authority and Respect)
               </h2>
               <p className="mt-4 text-sm text-zinc-300/80">
-                We promote responsible learning, ethical visibility, and mature
-                discourse. No deception. Respectful engagement at all times.
+                We promote responsible wealth gain, ethical public visibility, and power
+                discourse and influence. Respectful engagement at all times.
               </p>
               <p className="mt-4 text-xs text-amber-200/80">
                 18+ Disclaimer: This educational program is intended for adults
@@ -64,10 +64,10 @@ export default function HowToJoinPage() {
               Application Checklist
             </h2>
             <ul className="mt-4 grid gap-3 text-sm text-zinc-300/80 md:grid-cols-2">
-              <li>• Completed registration form.</li>
-              <li>• Valid contact information.</li>
-              <li>• Selected program focus.</li>
-              <li>• Agreement to adult-only guidelines.</li>
+              <li>• Completed and submitted registration form.</li>
+              <li>• Validate contact information.</li>
+              <li>• Selected options focus.</li>
+              <li>• Agreement to ethics.</li>
             </ul>
           </div>
         </Reveal>
@@ -78,10 +78,10 @@ export default function HowToJoinPage() {
           <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
             <div>
               <h2 className="text-3xl font-semibold text-amber-100">
-                Ready to apply?
+                Ready to join?
               </h2>
               <p className="mt-3 text-sm text-zinc-300/80">
-                Start the registration form now. Adults only.
+                Start the registration form now. 18+.
               </p>
             </div>
             <RegisterCTAButton label="Register Today" />

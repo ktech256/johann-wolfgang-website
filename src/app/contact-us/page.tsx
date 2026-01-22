@@ -95,7 +95,7 @@ export default function ContactPage() {
               <ul className="mt-4 space-y-3 text-sm text-zinc-300/80">
                 <li>• Response time within 24-48 hours.</li>
                 <li>• Secure and confidential communications.</li>
-                <li>• Adults-only consultations.</li>
+                <li>• Adults-only Registration.</li>
               </ul>
             </div>
           </Reveal>
